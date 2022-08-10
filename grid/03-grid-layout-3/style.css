@@ -66,9 +66,9 @@
   font-weight: normal;
 }
 
-.sidebar .side-content,.sidebar .photo {
-  height: 100px;
-  vertical-align: center;
+.side-content,.sidebar .photo {
+  height: 200px;
+  text-align: center;
 }
 .nav {
   background-color: #FF7755;
